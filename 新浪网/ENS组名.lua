@@ -60,8 +60,6 @@ local saved_values = {
 
 local animation = {
     "  ",
-    " | ",
-    " |⌛ ",
     " |⌛| ",
     "⌛ E ",
     "⌛EN ",
@@ -90,8 +88,6 @@ local animation = {
     "⌛ EN  ",
     "⌛ E ",
     " |⌛| ",
-    " |⌛ ",
-    " | ",
     "  ",
     ""
 }
