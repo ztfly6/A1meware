@@ -1,4 +1,4 @@
-﻿local lua_ref = gui.Reference("Visuals", "World","Extra")
+local lua_ref = gui.Reference("Visuals", "World","Extra")
 
 local lua_chinese_hat = gui.Checkbox(lua_ref, "chinese_hat", "Enable Hat", true)
 local lua_chinese_hat_color = gui.ColorPicker(lua_chinese_hat, "chinese_hat_color", "", 255, 255, 255, 200)
